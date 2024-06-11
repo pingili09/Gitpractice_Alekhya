@@ -1,0 +1,2 @@
+f6 file is created in feature branch
+
